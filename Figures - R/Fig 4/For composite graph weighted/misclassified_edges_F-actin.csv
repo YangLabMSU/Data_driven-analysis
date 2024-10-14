@@ -1,0 +1,15 @@
+"Reference","Prediction","Freq"
+"AK23","AntiTPO",5
+"AK23","Control",8
+"AK23","HLA",10
+"AK23","PX44",5
+"AntiTPO","PX43",10
+"AntiTPO","PX44",26
+"AtS13","HLA",4
+"AtS13","PVIgG",18
+"AtS13","PX43",10
+"AtS13","PX44",4
+"Control","HLA",5
+"HLA","PVIgG",4
+"HLA","PX43",20
+"PVIgG","PX43",5
